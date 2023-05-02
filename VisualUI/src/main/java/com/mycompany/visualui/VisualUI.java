@@ -11,6 +11,6 @@ package com.mycompany.visualui;
 public class VisualUI {
 
     public static void main(String[] args) {
-        new VisualGUI().setVisible(true);
+        new HomeUI().setVisible(true);
     }
 }
